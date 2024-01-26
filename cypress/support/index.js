@@ -1,0 +1,7 @@
+import '../pages/HomePage.js'
+import '../pages/LoginModal.js'
+import '../pages/SignUpModal.js'
+import '../pages/ProductPage.js'
+import '../pages/PlaceOrderModal.js'
+import '../support/step_definitions/login.js'
+import '../support/step_definitions/shopping_cart.js'

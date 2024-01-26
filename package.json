@@ -1,0 +1,25 @@
+{
+  "name": "demoblaze-bdd",
+  "version": "1.0.0",
+  "description": "Test cases for Demoblaze web product store",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "cucumber",
+    "demoblaze",
+    "aizon"
+  ],
+  "author": "Sali Chalak",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.3",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinations": true
+  }
+}
