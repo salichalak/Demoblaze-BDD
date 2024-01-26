@@ -16,7 +16,7 @@ Clone the repository
 ```
 git clone
 ```
-Load the project from the cloned directory
+Open the project from the cloned directory  
 To install and load all project dependencies run this in the terminal
 ```
 npm install
